@@ -1,0 +1,28 @@
+body{
+text-align: center;
+font-size: larger;
+
+}
+
+.Box{
+    padding: 50px;
+margin: 100px;
+border: 3px solid black;
+border-radius: 20px;
+}
+
+input{
+    padding: 5px;
+    width: 20em;
+    margin: 10px;
+
+}
+button{
+    padding: 5px;
+    
+}
+
+ol{
+    text-align: center;
+    width: 500px;
+}
